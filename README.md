@@ -3,7 +3,9 @@ A simulator for the gossip algorithm
 
 this project simulate a distibuted system.
 when running RunNodes.java, 5 process(Node.jar) starts running at the same time.
+
 every process acts like a node in a distribute system.
+
 that means he is indepentes and there is no managment system that manage all nodes.
 
 Node.java implement the gossip algorithem:
